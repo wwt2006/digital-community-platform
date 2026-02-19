@@ -1,0 +1,24 @@
+[
+  {
+    "id": "b4e381fb-44b8-4071-87b4-969d1360d7e7",
+    "phone": "17265654399",
+    "password": "$2b$10$ydO4MX4s2MYQtJIfO8Zsg.0Hsg3U9PIKro0/QwenXJJcVSnpxdYW.",
+    "nickname": "杨淅",
+    "province": "江苏省",
+    "city": "杭州市",
+    "avatar": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+    "friends": [],
+    "online": true
+  },
+  {
+    "id": "dca7da37-e452-490a-99ff-87a62fa5c63d",
+    "phone": "13996553294",
+    "password": "$2b$10$4DYhFxO32gGlsMRbsnEiEuQH0VCp1MglzHdYLm6CIiPGJEJd0Rcf2",
+    "nickname": "不想开学",
+    "province": "未选择",
+    "city": "未选择",
+    "avatar": "https://cube.elemecdn.com/0/88/03b0d39583f48206768a7534e55bcpng.png",
+    "friends": [],
+    "online": true
+  }
+]
